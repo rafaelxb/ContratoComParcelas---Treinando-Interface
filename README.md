@@ -3,6 +3,9 @@
 Com o objetivo de treinar os conceitos de interface, inversão de controle e injeção de dependência, criei este projeto para resolução do exercicio que será descrito abaixo. Usando interface, eu separei o calculo das taxas de pagamento por serviço de pagamento, diminuindo o acoplamento e possibilitando que novos serviços de pagamento sejam inclusos com o menor impacto possível.
 
 
+
+Exercicio proposto: 
+
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de
 um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no
 número de meses desejado.
